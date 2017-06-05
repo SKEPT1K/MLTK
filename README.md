@@ -19,7 +19,7 @@ Create two different folders, one for training data and a second for testing pur
   - Mouse
 ```
 
-Inception recommends at leaste 20 images per classification.
+Inception recommends at least 20 images per classification.
 
 #### Learning
 `cd /MTLK/modules/image_classifier`
